@@ -1,0 +1,8 @@
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\bin\Debug\Task6.exe.config
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\bin\Debug\Task6.exe
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\bin\Debug\Task6.pdb
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\obj\Debug\Task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\obj\Debug\Task6.exe
+C:\Users\Konstantin\source\repos\HomeWork8\Task6\obj\Debug\Task6.pdb
